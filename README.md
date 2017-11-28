@@ -24,7 +24,7 @@ docker -v && docker-compose -v && \
 docker-machine -v && VBoxManage --version
 
 # pull this GitHub project
-git clone https://github.com/garystafford/virtual-vehicles-docker.git && \
+git clone https://github.com/ashishkothari13/virtual-vehicles-docker.git && \
 cd virtual-vehicles-docker
 
 # clean up any previous machine failures

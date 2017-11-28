@@ -4,7 +4,7 @@
 #
 # title:          Pull Latest Build Artifacts Script
 # author:         Gary A. Stafford (https://programmaticponderings.com)
-# url:            https://github.com/garystafford/virtual-vehicles-docker
+# url:            https://github.com/ashishkothari13/virtual-vehicles-docker
 # description:    Pull latest build artifacts from virtual-vehicles-demo repo
 #                 and build Dockerfile and YAML templates
 #
@@ -21,7 +21,7 @@ rm -rf valet/build-artifacts/
 rm -rf vehicle/build-artifacts/
 
 echo "Pulling latest build artficats"
-git clone https://github.com/garystafford/virtual-vehicles-demo.git \
+git clone https://github.com/ashishkothari13/virtual-vehicles-demo.git \
   --branch build-artifacts-new \
   --single-branch build-artifacts \
   build-artifacts

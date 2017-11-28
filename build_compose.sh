@@ -4,7 +4,7 @@
 #
 # title:          Docker Compose YAML Template Variable Substitution Script
 # author:         Gary A. Stafford (https://programmaticponderings.com)
-# url:            https://github.com/garystafford/virtual-vehicles-docker
+# url:            https://github.com/ashishkothari13/virtual-vehicles-docker
 # description:    Replaces tokens in template and create docker-compose.yml
 #
 # to run:         sh run_comppse.sh
