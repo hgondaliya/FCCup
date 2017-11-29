@@ -1,7 +1,6 @@
 ########################################################################
 #
 # title:       Docker Compose v2 YAML template for Virtual-Vehicles Project
-# author:      Gary A. Stafford (https://programmaticponderings.com)
 # url:         https://github.com/ashishkothari13/virtual-vehicles-docker
 # description: Pulls (6) base images, builds (10) images, and builds (12) containers,
 #              for the Virtual-Vehicles Java microservices example REST API
